@@ -105,9 +105,9 @@ input[type=password]:focus {
 
 #lower {
     background: #00FF00;
-    background-image: -webkit-gradient(linear, right top, right bottom, from(#00FF00), to(#FFFFFF));
-    background-image: -moz-linear-gradient(bottom left 90deg, #00FF00 0%, #FFFFFF 100%);
-    background-image: linear-gradient(bottom left 90deg, #00FF00 0%, #FFFFFF 100%);
+    background-image: -webkit-gradient(linear, right top, right bottom, from(#FFFFFF), to(#00FF00));
+    background-image: -moz-linear-gradient(bottom left 90deg, #FFFFFF 0%, #00FF00 100%);
+    background-image: linear-gradient(bottom left 90deg, #FFFFFF 0%, #00FF00 100%);
     width: 100%;
     height: 69px;
     margin-top: 20px;
