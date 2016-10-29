@@ -121,7 +121,7 @@ input[type=submit] {
     height: 30px;
     font-size: 14px;
     font-weight: bold;
-    color: #fff;
+    color: #00FF00;
     background-color: #acd6ef; /*IE fallback*/
     background-image: -webkit-gradient(linear, left top, left bottom, from(#acd6ef), to(#6ec2e8));
     background-image: -moz-linear-gradient(top left 90deg, #acd6ef 0%, #6ec2e8 100%);
