@@ -158,7 +158,10 @@ input[type=submit]:active {
     margin-left: -530px;
     background: #00FF00;
 }
-
+form {
+    margin: 0 auto;
+    margin-top: 20px;
+}
 
 
 
