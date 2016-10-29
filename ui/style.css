@@ -152,7 +152,10 @@ input[type=submit]:active {
     position: fixed;
     width: 400px;
     height: 350px;
-    
+    top: 50%;
+    left: 50%;
+    margin-top: 100px;
+    margin-left: 30px;
 }
 
 
