@@ -26,7 +26,7 @@ html, body {
 height: 100%;   
 font-family: "Helvetica Neue", Helvetica, sans-serif;   
 color: #444;   
--webkit-font-smoothing: antialiased;    background: #E0FFFF;
+-webkit-font-smoothing: antialiased;    background: #00FF00;
 }
 #container {
     position: fixed;
