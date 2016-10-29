@@ -156,6 +156,7 @@ input[type=submit]:active {
     left: 50%;
     margin-top: -60px;
     margin-left: -530px;
+    background: #00FF00;
 }
 
 
