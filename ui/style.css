@@ -5,7 +5,7 @@ body {
     
 }
 
-.center {
+/*.center {
     text-align: center;
 }
 
@@ -20,7 +20,7 @@ body {
 
 .img-medium {
     height: 200px;
-}
+}*/
 #container {
 position: fixed;
 width: 340px;
@@ -41,3 +41,11 @@ label {
     padding-top: 10px;
     font-size: 14px;
 }
+
+
+
+
+
+
+
+
