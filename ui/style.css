@@ -171,10 +171,10 @@ label {
 }
 signup {
     color: #800080;
-    font-size:50px;
+    font-size:36px;
     line-height:120%;
     padding-top:10px;
-    margin-left:5px;
+    padding-left:10px;
 }
 input[type=reset] {
     float: right;
