@@ -150,7 +150,7 @@ input[type=submit]:active {
 }
 #container1 {
     position: fixed;
-    width: 380px;
+    width: 350px;
     height: 450px;
     top: 50%;
     left: 50%;
