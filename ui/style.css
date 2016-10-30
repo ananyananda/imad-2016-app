@@ -151,13 +151,13 @@ input[type=submit]:active {
 #container1 {
     position: fixed;
     width: 340px;
-    height: 470px;
+    height: 450px;
     top: 50%;
     left: 50%;
     margin-top: -230px;
     margin-left: -500px;
     background: #00FF00;
-            }
+    }
 form {
     margin: 0 auto;
     margin-top: 20px;
@@ -168,13 +168,6 @@ label {
     margin-left: 18px;
     padding-top: 10px;
     font-size: 14px;
-}
-signup {
-    color: #800080;
-    font-size:36px;
-    line-height:120%;
-    padding-top:10px;
-    padding-left:10px;
 }
 input[type=reset] {
     float: right;
