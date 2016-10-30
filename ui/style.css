@@ -154,8 +154,8 @@ input[type=submit]:active {
     height: 450px;
     top: 50%;
     left: 50%;
-    margin-top: -250px;
-    margin-left: -550px;
+    margin-top: -270px;
+    margin-left: -530px;
     background: #00FF00;
 }
 form {
