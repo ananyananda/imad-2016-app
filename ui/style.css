@@ -151,11 +151,11 @@ input[type=submit]:active {
 #container1 {
     position: fixed;
     width: 400px;
-    height: 500px;
+    height: 450px;
     top: 50%;
     left: 50%;
     margin-top: -250px;
-    margin-left: -530px;
+    margin-left: -500px;
     background: #00FF00;
 }
 form {
