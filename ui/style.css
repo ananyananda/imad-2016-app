@@ -198,7 +198,14 @@ input[type=reset]:active {
     background-image: -moz-linear-gradient(top left 90deg, #6ec2e8 0%, #b6e2ff 100%);
     background-image: linear-gradient(top left 90deg, #6ec2e8 0%, #b6e2ff 100%);
 }
-
+signup {
+    position: fixed;
+    width: 340px;
+    height: 50px;
+    margin-top: -110px;
+    margin-left: -500px;
+    background: 800080;
+}
 
 
 
