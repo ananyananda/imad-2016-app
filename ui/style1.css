@@ -3,11 +3,11 @@ html, body {
 }
 #links {
      position: fixed;
-    width: 540px;
+    width: 340px;
     height: 80px;
     top: 50%;
     left: 50%;
-    margin-top: -440px;
+    margin-top: -400px;
     margin-left: -370px;
 	background: #00FF00;
 }
