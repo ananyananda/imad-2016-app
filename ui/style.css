@@ -157,7 +157,7 @@ input[type=submit]:active {
     margin-top: -230px;
     margin-left: -500px;
     background: #00FF00;
-}
+            }
 form {
     margin: 0 auto;
     margin-top: 20px;
@@ -168,6 +168,10 @@ label {
     margin-left: 18px;
     padding-top: 10px;
     font-size: 14px;
+}
+signup {
+    color: #333;
+    font-size:36px;
 }
 input[type=reset] {
     float: right;
