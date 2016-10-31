@@ -1,7 +1,7 @@
 html, body {
 }
     input[type=Login] {
-    float: right;
+    float: none;
     margin-right: 20px;
     margin-top: 20px;
     width: 80px;
