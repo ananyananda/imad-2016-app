@@ -12,7 +12,7 @@ html, body {
 	background: #00FF00;
 }
 input[type=button] {
-    float: none;
+    float: right;
     margin-right: 20px;
     margin-top: 20px;
     width: 80px;
@@ -44,7 +44,7 @@ input[type=button1] {
     float: right;
     margin-right: 20px;
     margin-top: 20px;
-    width: 90px;
+    width: 85px;
     height: 30px;
     font-size: 14px;
     font-weight: bold;
