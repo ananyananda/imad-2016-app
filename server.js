@@ -17,6 +17,9 @@ app.get('/profile/add_article', function(req, res){
 app.get('/profile/my_articles', function(req, res){
     res.sendFile(path.join(__dirname, 'ui','my_articles.html'));
 });
+app.get('/signup', function(req, res){
+    res.sendFile(path.join(__dirname, 'ui','signup.html'));
+});
 app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
 });
