@@ -11,6 +11,10 @@ html, body {
     margin-left: -170px;
 	background: #00FF00;
 }
+#welcome {
+    font-size: xx-large;
+            color: white;
+}
 input[type=button] {
     float: right;
     margin-right: 20px;
