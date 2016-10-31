@@ -12,7 +12,7 @@ html, body {
 	background: #00FF00;
 }
 input[type=button] {
-    float: right;
+    float: none;
     margin-right: 20px;
     margin-top: 20px;
     width: 80px;
