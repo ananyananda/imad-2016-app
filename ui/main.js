@@ -1,4 +1,4 @@
-var submit = document.getElementById('Login');
+var submit = document.getElementById('login');
 submit.onclick = function() {
     var request = new XMLHttpRequest();
     request.onreadystatechange = function() {
