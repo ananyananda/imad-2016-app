@@ -39,7 +39,7 @@ app.get('/ui/style1.css', function (req, res) {
 app.get('/ui/style2.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style2.css'));
 });
-var pool = new Pool(config);
+var pool = new pool(config);
 app.get('/ananyananda-db', function (req, res) {
     pool.query('SELECT * FROM "user"', function(err,res) {
         if(err) {
