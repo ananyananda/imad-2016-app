@@ -84,7 +84,7 @@ app.post('/profile', function(req,res) {
     });
 });
 var pool = new pool(config);
-app.get('/ananyananda-db', function (req, res) {
+app.get('/ananyananda', function (req, res) {
     pool.query('SELECT * FROM "user"', function(err,res) {
         if(err) {
             res.status(500).send(err.toString());
