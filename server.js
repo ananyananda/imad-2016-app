@@ -81,9 +81,9 @@ app.post('/profile', function(req,res) {
         }
     });
 });
-/*app.get('/profile', function(req, res){
+app.get('/profile', function(req, res){
     res.sendFile(path.join(__dirname, 'ui','Profile.html'));
-});*/
+});
 var pool = new pool(config);
 app.get('/ananyananda', function (req, res) {
     pool.query('SELECT * FROM "user"', function(err,res) {
